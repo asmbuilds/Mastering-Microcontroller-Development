@@ -1,0 +1,11 @@
+../bsp/ds1307.c:28:9:ds1307_init	1
+../bsp/ds1307.c:48:6:ds1307_set_current_time	3
+../bsp/ds1307.c:73:6:ds1307_get_current_time	2
+../bsp/ds1307.c:103:6:ds1307_set_current_date	1
+../bsp/ds1307.c:112:6:ds1307_get_current_date	1
+../bsp/ds1307.c:129:13:ds1307_i2c_pin_config	1
+../bsp/ds1307.c:160:13:ds1307_i2c_config	1
+../bsp/ds1307.c:170:13:ds1307_write	1
+../bsp/ds1307.c:178:16:ds1307_read	1
+../bsp/ds1307.c:188:16:binary_to_bcd	2
+../bsp/ds1307.c:204:16:bcd_to_binary	1
